@@ -7,6 +7,10 @@ YOU ARE RESPONSIBLE FOR IMPLEMENTING CYBER-SECURITY FEATURES.
 This is code for a simple SMS and Voice redirection command to Twilio,
 written in C# .
 
+Please see the supporting guide on the Geo SCADA Expert Knowledgebase 
+in the Tools and Samples section.
+https://community.se.com/t5/Geo-SCADA-Knowledge-Base/Tools-amp-Samples/ba-p/279123
+
 IMPORTANT
 It is not supported or warranted in any way by Schneider Electric.
 
